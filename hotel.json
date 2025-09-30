@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "Nguyen A",
+            "email": "a@gmail.com"
+        },
+        {
+            "name": "Nguyen Van B",
+            "email": "b@gmail.com"
+        }
+    ],
+    "rooms": [
+        {
+            "name": "Phòng 101",
+            "price": 500000
+        },
+        {
+            "name": "Phòng 102",
+            "price": 300000
+        }
+    ]
+}
